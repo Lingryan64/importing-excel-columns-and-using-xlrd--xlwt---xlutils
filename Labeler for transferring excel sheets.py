@@ -1,4 +1,3 @@
-```py
 from xlrd import *
 import xlrd
 import xlwt
@@ -45,7 +44,7 @@ wb.save(path)
 log.close()
 
 input("Finished...")
-```
+
 
 
 
