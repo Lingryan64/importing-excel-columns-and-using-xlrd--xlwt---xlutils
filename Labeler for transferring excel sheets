@@ -1,4 +1,4 @@
-```python
+```py
 from xlrd import *
 import xlrd
 import xlwt
